@@ -10,8 +10,8 @@ file that you would like to analyze.
 * wrf-python
 * Cartopy
 * Basemap
-### There are other packages used, but they are more common. 
-### All packages used are listed at the top of each notebook.
+#### There are other packages used, but they are more common. 
+#### All packages used are listed at the top of each notebook.
 
 ### Feel free to contact me with any questions and/or recommendations on how to improve
 ### any of these notebooks.
